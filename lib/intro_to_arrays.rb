@@ -5,5 +5,5 @@ def array_with_two_elements
   [1,2]
 end
 def first_element
-  element[0]
+  array[0]
 end
